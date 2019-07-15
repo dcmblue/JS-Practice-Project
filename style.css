@@ -16,6 +16,12 @@
                 </div>
             </nav>
         </header>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Help</a>
+  </div>
+</div>
         <main class="main-contents">
             <h2>About</h2>
              <p>Woot! Got the (vanilla) Javascript to work!</p>
@@ -28,10 +34,4 @@
   </button>
 <div class="dropdown">
   <button onclick="myFunction()" class="dropbtn">Dropdown</button>
-  <div id="myDropdown" class="dropdown-content">
-    <a href="#">Home</a>
-    <a href="#">About</a>
-    <a href="#">Help</a>
-  </div>
-</div>
 <scrpt type="text/javascript" src="jsfile.js"><script>
